@@ -1,12 +1,19 @@
 {
   "name": "@zitterorg/probable-octo",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "author": "zitterfe",
   "license": "MIT",
   "dependencies": {
-    "@zitterorg/fluffy-waddle": "^2.1.2"
+    "@zitterorg/fluffy-waddle": "^2.1.2",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "es2015",
@@ -473,5 +480,5 @@
   "bugs": {
     "url": "https://github.com/zitterorg/probable-octo/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
